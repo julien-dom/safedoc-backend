@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64342852b977040780965758"
+  },
+  "value": 2,
+  "description": "only via mail"
+},{
+  "_id": {
+    "$oid": "64342852b977040780965757"
+  },
+  "value": 1,
+  "description": "only accessible to members"
+},{
+  "_id": {
+    "$oid": "64342852b977040780965756"
+  },
+  "value": 0,
+  "description": "public"
+},{
+  "_id": {
+    "$oid": "64342852b977040780965759"
+  },
+  "value": 3,
+  "description": "no display"
+}]

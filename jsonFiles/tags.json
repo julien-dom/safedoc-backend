@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "643d3bb1c615c64dde8acb1f"
+  },
+  "value": "Accessibilité PMR",
+  "category": "Accessibilité",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3c38c615c64dde8acb21"
+  },
+  "value": "Gay-Friendly",
+  "category": "friendliness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3c47c615c64dde8acb23"
+  },
+  "value": "Lesbienne-Friendly",
+  "category": "friendliness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3c4fc615c64dde8acb25"
+  },
+  "value": "Trans-Friendly",
+  "category": "friendliness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3c54c615c64dde8acb27"
+  },
+  "value": "TDS-Friendly",
+  "category": "friendliness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3c8dc615c64dde8acb29"
+  },
+  "value": "Tiers-Payant",
+  "category": "Accessibilité",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3d6cc615c64dde8acb2b"
+  },
+  "value": "Suivi-Prep",
+  "category": "Pratique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3dd0c615c64dde8acb2d"
+  },
+  "value": "IVG-Safe",
+  "category": "Pratique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3de2c615c64dde8acb2f"
+  },
+  "value": "Parcours De Transition",
+  "category": "Pratique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3df1c615c64dde8acb31"
+  },
+  "value": "Suivi VIH",
+  "category": "Pratique",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3e11c615c64dde8acb33"
+  },
+  "value": "Racisé.e Friendly",
+  "category": "Friendliness",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d42612559f4dee0c0a85b"
+  },
+  "value": "Sensibilité violence",
+  "category": "Friendliness",
+  "__v": 0
+}]

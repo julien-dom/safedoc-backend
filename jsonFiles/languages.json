@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "643425fcb977040780965745"
+  },
+  "value": "français",
+  "translation": "français"
+},{
+  "_id": {
+    "$oid": "643425fcb97704078096574b"
+  },
+  "value": "日本語",
+  "translation": "japonais"
+},{
+  "_id": {
+    "$oid": "643425fcb977040780965746"
+  },
+  "value": "english",
+  "translation": "anglais"
+},{
+  "_id": {
+    "$oid": "643425fcb97704078096574c"
+  },
+  "value": "Русский",
+  "translation": "russe"
+},{
+  "_id": {
+    "$oid": "643425fcb97704078096574d"
+  },
+  "value": "العربية",
+  "translation": "arabe"
+},{
+  "_id": {
+    "$oid": "643425fcb977040780965749"
+  },
+  "value": "italiano",
+  "translation": "italien"
+},{
+  "_id": {
+    "$oid": "643425fcb97704078096574a"
+  },
+  "value": "中文",
+  "translation": "mandarin"
+},{
+  "_id": {
+    "$oid": "643425fcb977040780965747"
+  },
+  "value": "español",
+  "translation": "espagnol"
+},{
+  "_id": {
+    "$oid": "643425fcb977040780965748"
+  },
+  "value": "deutsch",
+  "translation": "allemand"
+},{
+  "_id": {
+    "$oid": "643425fcb97704078096574e"
+  },
+  "value": "Português",
+  "translation": "portuguais"
+}]

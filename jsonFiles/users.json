@@ -1,0 +1,321 @@
+[{
+  "_id": {
+    "$oid": "64381d3541a8b04e92343dcf"
+  },
+  "username": "Joris",
+  "password": "$2b$10$tNzUXd1XXIui9xcQbMZY3.vMAejyK5JyLUGuBqNHjL.CgKbDW2jwG",
+  "email": "Joko@gekek.com",
+  "orientation": "En questionnement",
+  "gender": "femme cisgenre",
+  "token": "GF0ZW8lmO9jKAvl1xnxI3EHhP7EovfeL",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64381ffa41a8b04e92343de1"
+  },
+  "username": "Alan",
+  "password": "$2b$10$u/8m02qvcpSYan6opxoTLupr4sNaLMmxV9hGhabZms3pGf/ZQnsw6",
+  "email": "Alan@a.com",
+  "orientation": "pansexuel.le",
+  "gender": "homme trans",
+  "token": "EmjkHbZT6ww1pFZVzlEleVhTHewhe3vV",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6438293b08fff4b263c835a0"
+  },
+  "username": "AlexandreKing",
+  "password": "$2b$10$csz9V9aDNQ/ivpVBS2c3qu2hqD8Hnmr96HghupbKMmf1VB49.9sR2",
+  "email": "Alex@king.com",
+  "orientation": "En questionnement",
+  "gender": "je ne souhaite pas me défnir",
+  "token": "NPClTXIYFiSwySpf8oDbMCircdH1_Sib",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6439bda0f20bc5ed4c20658a"
+  },
+  "username": "Nico",
+  "password": "$2b$10$TpQ3XNR7kFz4UkGpiJxP4ejsqO.Kzq7x3I8Rq5nQhdppX4wZxlvam",
+  "email": "Nico@gmail.com",
+  "orientation": "Asexuel.le",
+  "gender": "Je ne me reconnais dans aucune catégorie",
+  "token": "cNLb4S371lxUPUAjwG7Asz6fRifULrfQ",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643a50c81cacf187ad4f364a"
+  },
+  "username": "Julieneee",
+  "password": "$2b$10$ybiehBXZVQ49CR8S6kFHxOKa3nwoZ6K6ATPefJKkm4PulA8w2wmu.",
+  "email": "Juju@juu.com",
+  "orientation": "Hétérosexuel.le",
+  "gender": "Homme cisgenre",
+  "token": "-vrb3u-3CWaBZxYoPKK6J621yusJR_kM",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ab7ef2469a2987c8ba21e"
+  },
+  "username": "Lili",
+  "password": "$2b$10$TatVJD4uFEzESsqRmj19BOYMvyvMf85aeiseZ58S6hb0EHW2Y3Xmi",
+  "email": "Lili@gmail.com",
+  "orientation": "Je ne me reconnais dans aucune catégorie",
+  "gender": "Je ne me reconnais dans aucune catégorie",
+  "token": "RPmWy_Wn7cpkrTUlU111vTgi3KurOak8",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643abb0b6099383da0686c7a"
+  },
+  "username": "Lyna",
+  "password": "$2b$10$VIwRbqfHSG5Sw9EtwmKrb.cqkLAeeX8zAAFTX9Tqsey.eQ1Mt9kgy",
+  "email": "Lyna@gmail.com",
+  "orientation": "Hétérosexuel.le",
+  "gender": "Femme cisgenre",
+  "token": "AG1rMPfOSTcuQ_5V3k3SwebsBcN61xMB",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643bfbd2e6194e0fccbcc002"
+  },
+  "username": "JulienDo",
+  "password": "$2b$10$6VXbMSt7fbXHYAIFZ/SOKuMOxIxgmiHt44MOYOhwjb9jPBy.5gomS",
+  "email": "Jujudo@judo.com",
+  "orientation": "Lesbienne",
+  "gender": "Homme transgenre",
+  "token": "Ak2Aup3Zb4jaJIDLYdMFTorUQOSNQ2yA",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cf7dfb99915b1ae8358b3"
+  },
+  "username": "theo",
+  "password": "$2b$10$i8WjuV30oDujPDCPqZS89e8whjA7WqnTQFK/lJCAAeazc8De.4L8m",
+  "email": "theo@gmail.com",
+  "orientation": "Gay",
+  "gender": "Homme cisgenre",
+  "token": "iSPEjfH0umtVIWKRYE-zUiqoT7b94uwt",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cfcde60ed84949b774774"
+  },
+  "username": "theoKing",
+  "password": "$2b$10$2J000wO8f2FO0dBFNc0UOeDNHRZ71fXUsYTSwR43N8vK3Ldr4Xg1y",
+  "email": "Theoking@gmail.com",
+  "orientation": "Gay",
+  "gender": "Homme cisgenre",
+  "token": "EO1TEGbzvdsB_v5iMJlJAaQzVDg96KCs",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cfe69deb21f1871b0ec10"
+  },
+  "username": "yohan",
+  "password": "$2b$10$GyUwI0WyoUMYIdQ64yT02eG03pCOL3j9UnchMA0phaIrEHzO4LTqO",
+  "email": "yohan@gmail.com",
+  "orientation": "Pansexuel.le",
+  "gender": "Homme transgenre",
+  "token": "gJnU6EPLPtnMdoWWc7-_3qs0iecIYcsQ",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440057379bb99758843dd1b"
+  },
+  "username": "Victoria",
+  "password": "$2b$10$22OmdQvuMlAAN9KrWK6NvuLB/Ancz8qWgS2B6gpWpXYxegncL96qq",
+  "email": "example@victoria.com",
+  "city": "Clichy",
+  "token": "LbTGzovrBarKffQidsqExEYGWsp_SAB4",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644005ef79bb99758843dd1f"
+  },
+  "username": "Victoriy",
+  "password": "$2b$10$WZYpPRKEKoVGT2mDOJcks.pqFZPjfsjkoodFb.0O.lLxPTiENpAOa",
+  "email": "exampley@victoria.com",
+  "city": "Clichy",
+  "orientation": "",
+  "gender": "",
+  "token": "hrvUM6dRa8ZUdeZFUDyWMFEs0StnFD8O",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440ecc0b3e4e615b89de8fd"
+  },
+  "username": "Julien",
+  "password": "$2b$10$o/DIkGyiGgXXkLN0UVw8V.zI1YZeA51rV9T9KmWD1HJjode584G5W",
+  "email": "Juju@gmail.col",
+  "orientation": "Bisexuel.le",
+  "gender": "Homme transgenre",
+  "token": "UD1ps9KtaZsqpY2renH_F0xx-mGYvb5M",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440efd7871eaab70a6bc4f8"
+  },
+  "username": "Yoann",
+  "password": "$2b$10$p.dYw.SNlBCgb4iiMQWWverClntF4R2Lo/L.wrQ2Jk.667U/BhbD.",
+  "email": "Yoann.q@gmail.com",
+  "orientation": "Gay",
+  "gender": "Homme cisgenre",
+  "token": "yq3yuMLdCzovCZjMnZ6c_8IZNLuY7dtn",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440f305b3e4e615b89de929"
+  },
+  "username": "Alexandre",
+  "password": "$2b$10$ipVfIctpMFZwhtqhk24HlOEDpyK/rc5GKDdJvho.zI.zJNgAaxNn.",
+  "email": "Alexandresossou@gmail.com",
+  "orientation": "Asexuel.le",
+  "gender": "Homme cisgenre",
+  "token": "cvNCa-GyOEYKg5vnZi_WIcCPM383jR1j",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440f99555689a1d5de94dc2"
+  },
+  "username": "Jujujujuuu",
+  "password": "$2b$10$E.g3by/Ww5UHXHHurpVRH.IoYHTkI.ix/oXke/J2jvel6x7URRqTC",
+  "email": "Juju@juju.com",
+  "token": "KFG7YCgPKHcTNC4IYJTMyQS4w5006JTC",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440fd4f55689a1d5de94df0"
+  },
+  "username": "Camille",
+  "password": "$2b$10$QB4S49khPqHNzYGwD.F01uO0W6EXuoxM8whdja9NutZ.FzlB/oD9e",
+  "email": "camille@gmail.com",
+  "orientation": "Hétérosexuel.le",
+  "gender": "Je ne souhaite pas me défnir",
+  "token": "soRMm5MiPyDRZLRu6cjEFz3TP0isjIkq",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441017beed82d0fe9a38d89"
+  },
+  "username": "JulienD",
+  "password": "$2b$10$OfH2GbAx4I3wR7DpO//rkeg1BH2I/ElKw.IWb08n7Vme9xj4a4OVO",
+  "email": "jujud@gmail.com",
+  "orientation": "Je ne souhaite pas me défnir",
+  "gender": "Je ne me reconnais dans aucune catégorie",
+  "token": "sMGAY67SGjdLXx8Oy0ysPpF-7fUISNjs",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644124622479c53dd75cabcb"
+  },
+  "username": "Jugu",
+  "password": "$2b$10$.EB/elgN5fzAesV4uyVW9.xtGDKUeJ9Iwg5d1o1cRiQzF7kdl1o.K",
+  "email": "Ju@ju.com",
+  "orientation": "Bisexuel.le",
+  "gender": "Je ne me reconnais dans aucune catégorie",
+  "token": "fNcngPSfGic8t8IxZdO00oarqCeEYIkK",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441326030f8bd4dfc888c0c"
+  },
+  "username": "Tufy",
+  "password": "$2b$10$JNRfN00IBLgzY.fKshr7wuSEqU.j8k818ird9uhoLtQ6zEWysBAVi",
+  "email": "Tu@hl.com",
+  "orientation": "En questionnement",
+  "gender": "En questionnement",
+  "token": "Uifvm8cmvU1xkHsfE2ayVGS78xpNcRjk",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64413d9916d142d6631f647d"
+  },
+  "username": "JulienDom",
+  "password": "$2b$10$.ZBSdRqactQvks.vJUNZ5uGh3O8ImziPHzgnxEJPi9QmJtyKpvtju",
+  "email": "J@gmail.com",
+  "orientation": "Bisexuel.le",
+  "gender": "Homme transgenre",
+  "token": "lXSIWLbmhKirYUnPavUwyghyDl7J4h8s",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64414884f56473201dad7140"
+  },
+  "username": "Yesweken",
+  "password": "$2b$10$qTbSHAzuRpWI1y38Mh3rdOSuG5R/DurYbcuz7eEyUiUXXNLOJUv6a",
+  "email": "Yesweken02@gmail.com",
+  "orientation": "Pansexuel.le",
+  "gender": "Personne non-binaire",
+  "token": "5gVpqg6jNSKxIdrBVa1yXQcwG8v5cEbY",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441559b57e258aecb7c8dcf"
+  },
+  "username": "ArianaGrande",
+  "password": "$2b$10$Meo75eq7xhKIZMQDKf2n5uPnBBWsv5rKG/.3vV.JJshN.9pd8pJLy",
+  "email": "Arianagrande@grande.com",
+  "orientation": "Pansexuel.le",
+  "gender": "Femme cisgenre",
+  "token": "tn0PK-YVbzTgi1woBvi_KRUllU_cocuf",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64419279ba96d20100b54116"
+  },
+  "username": "Yop",
+  "password": "$2b$10$uDdfE1QA/IWclsZBHtXEKOaJQaj3eyvn23pllipWnciS64eoNjE3a",
+  "email": "Yoann.quiban@gmail.com",
+  "orientation": "Gay",
+  "gender": "Homme cisgenre",
+  "token": "ELHfNedja_fmLuzfex1Ew5IE7DCNplgT",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644e321960933614066bc9ea"
+  },
+  "username": "Yaya",
+  "password": "$2b$10$D9J/L8Rao77hPxpX.zAwX.UTvQ9YETl9IwAu0Eihawk7x252N2Ksi",
+  "email": "Yaya@yaya.com",
+  "token": "wUabB6JLzruQH_0OPlu79_DZXMTSIj-V",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644e324d60933614066bc9f7"
+  },
+  "username": "Yuyu",
+  "password": "$2b$10$oKfi6LF2V1s6VJoxkVlsLuT3TCxnM7f1TWR.gpSyMmjcLnaRNkJBa",
+  "email": "Yuyu@yuyu.com",
+  "orientation": "Lesbienne",
+  "gender": "Femme cisgenre",
+  "token": "jJsaGz4yxttcFoOYb51Na9GQ4yXKhIcI",
+  "isAdmin": false,
+  "__v": 0
+}]

@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "643d3f5e2559f4dee0c0a839"
+  },
+  "value": "Addictologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3f9f2559f4dee0c0a83b"
+  },
+  "value": "Dentiste",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fb42559f4dee0c0a83d"
+  },
+  "value": "Généraliste",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fbc2559f4dee0c0a83f"
+  },
+  "value": "Gynécologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fc62559f4dee0c0a841"
+  },
+  "value": "Proctologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fcd2559f4dee0c0a843"
+  },
+  "value": "Psychanalyste",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fd32559f4dee0c0a845"
+  },
+  "value": "Psychiatre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fda2559f4dee0c0a847"
+  },
+  "value": "Psychologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fe12559f4dee0c0a849"
+  },
+  "value": "Sexologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3fe92559f4dee0c0a84b"
+  },
+  "value": "Urologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d3ff02559f4dee0c0a84d"
+  },
+  "value": "Gériatre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d41092559f4dee0c0a84f"
+  },
+  "value": "Dermatologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d410f2559f4dee0c0a851"
+  },
+  "value": "Endocrinologue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d41492559f4dee0c0a853"
+  },
+  "value": "Orthophoniste",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d415a2559f4dee0c0a855"
+  },
+  "value": "Cardiologue",
+  "__v": 0
+}]

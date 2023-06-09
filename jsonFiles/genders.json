@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe4"
+  },
+  "value": "Femme transgenre"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fea"
+  },
+  "value": "En questionnement"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe3"
+  },
+  "value": "Homme cisgenre"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe2"
+  },
+  "value": "Femme cisgenre"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe9"
+  },
+  "value": "Je ne souhaite pas me définir"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe5"
+  },
+  "value": "Homme transgenre"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe6"
+  },
+  "value": "Personne intersexe"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe7"
+  },
+  "value": "Personne non-binaire"
+},{
+  "_id": {
+    "$oid": "6434290d7499ce6ad9ba0fe8"
+  },
+  "value": "Je ne me reconnais dans aucune catégorie"
+}]

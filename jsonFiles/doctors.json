@@ -1,0 +1,756 @@
+[{
+  "_id": {
+    "$oid": "643e4d3466a92bef42d46ea4"
+  },
+  "firstname": "Marie",
+  "lastname": "Dupont",
+  "email": "marie.dupont@gmail.com",
+  "phone": "0623025604",
+  "address": "4 Rue de Belleville, 75020 Paris",
+  "latitude": 48.870616,
+  "longitude": 2.384068,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "643e4d3466a92bef42d46ea5"
+    }
+  },
+  "specialties": [
+    "Sexologue"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-friendly",
+    "Suivi Prep",
+    "Lesbienne-Friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e4d3466a92bef42d46ea6"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e4db966a92bef42d46ea8"
+  },
+  "firstname": "John",
+  "lastname": "Doe",
+  "email": "johndoe@example.com",
+  "phone": "0612345678",
+  "address": "16 Rue Saint-Sabin, 75011 Paris",
+  "latitude": 48.857399,
+  "longitude": 2.369489,
+  "sector": {
+    "value": 3,
+    "description": "Conventionné.e secteur 3",
+    "_id": {
+      "$oid": "643e4db966a92bef42d46ea9"
+    }
+  },
+  "specialties": [
+    "Sexologue"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "TDS-Friendly",
+    "Sensibilité violence"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e4db966a92bef42d46eaa"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e4f4566a92bef42d46eb4"
+  },
+  "firstname": "Lucie",
+  "lastname": "Girard",
+  "email": "lucie.girard@example.com",
+  "phone": "0678901234",
+  "address": "7 Rue du Faubourg Saint-Antoine, 75011 Paris",
+  "latitude": 48.852225,
+  "longitude": 2.37326,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e4f4566a92bef42d46eb5"
+    }
+  },
+  "specialties": [
+    "Urologue"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Suivi Prep"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e4f4566a92bef42d46eb6"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e5ae666a92bef42d46ebc"
+  },
+  "firstname": "Laurent",
+  "lastname": "Martin",
+  "email": "laurent.martin@example.com",
+  "phone": "0622245468",
+  "address": "58 rue du Dessous des berges, 75013 Paris",
+  "latitude": 48.827819471193415,
+  "longitude": 2.3740161711646137,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "643e5ae666a92bef42d46ebd"
+    }
+  },
+  "specialties": [
+    "Dermatologue"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Accessibilité PMR",
+    "Lesbienne-friendly"
+  ],
+  "confidentiality": {
+    "value": 0,
+    "description": "Public",
+    "_id": {
+      "$oid": "643e5ae666a92bef42d46ebe"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e8aea8fd907a0a0c18c46"
+  },
+  "firstname": "James",
+  "lastname": "Johnson",
+  "email": "james.johnson@example.com",
+  "phone": "0111245468",
+  "address": "7 Rue de la Santé, 75013 Paris",
+  "latitude": 48.83791365124374,
+  "longitude": 2.342080113125925,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "643e8aea8fd907a0a0c18c47"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Accessibilité PMR",
+    "Trans-friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e8aea8fd907a0a0c18c48"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e8c148fd907a0a0c18c4a"
+  },
+  "firstname": "Olga",
+  "lastname": "Mikalova",
+  "email": "Olga.Mikalova@example.com",
+  "phone": "0111445468",
+  "address": "2 Rue d'Olivet, 75007 Paris",
+  "latitude": 48.84974874288097,
+  "longitude": 2.3196335326914923,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "643e8c148fd907a0a0c18c4b"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Trans-friendly",
+    "Sensibilité Violence",
+    "Tiers-Payant"
+  ],
+  "confidentiality": {
+    "value": 0,
+    "description": "Public",
+    "_id": {
+      "$oid": "643e8c148fd907a0a0c18c4c"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "643e8c9d8fd907a0a0c18c4e"
+  },
+  "firstname": "Jacques",
+  "lastname": "Brun",
+  "email": "Brun.jacques@example.com",
+  "phone": "0111467468",
+  "address": "7Z Cité Beauharnais, 75011 Paris",
+  "latitude": 48.85368602034818,
+  "longitude": 2.3887647831613665,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e8c9d8fd907a0a0c18c4f"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Trans-friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e8c9d8fd907a0a0c18c50"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e8e2b8fd907a0a0c18c56"
+  },
+  "firstname": "Alexandre",
+  "lastname": "Miraglos",
+  "email": "alexandre.miraglos@example.com",
+  "phone": "0111555898",
+  "address": "4 Rue du Général Bertrand, 75007 Paris",
+  "latitude": 48.84848448442377,
+  "longitude": 2.312677326741098,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e8e2b8fd907a0a0c18c57"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Accessibilité PMR",
+    "Trans-friendly",
+    "Tiers-Payant"
+  ],
+  "confidentiality": {
+    "value": 0,
+    "description": "Public",
+    "_id": {
+      "$oid": "643e8e2b8fd907a0a0c18c58"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "643e8ec48fd907a0a0c18c5a"
+  },
+  "firstname": "William",
+  "lastname": "Kavas",
+  "email": "kavas.william@example.com",
+  "phone": "0112225898",
+  "address": "159 Rue de Tolbiac, 75013 Paris",
+  "latitude": 48.82600548765928,
+  "longitude": 2.35570564645252,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e8ec48fd907a0a0c18c5b"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français",
+    "anglais"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Accessibilité PMR",
+    "Trans-friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e8ec48fd907a0a0c18c5c"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e8ef28fd907a0a0c18c5e"
+  },
+  "firstname": "Marie",
+  "lastname": "Leclerc",
+  "email": "sisi@example1.com",
+  "phone": "0601020004",
+  "address": "55 Rue du Faubourg Saint-Honoré, 75008 Paris",
+  "latitude": 48.87169403367853,
+  "longitude": 2.3630708418845616,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e8ef28fd907a0a0c18c5f"
+    }
+  },
+  "specialties": [
+    "Généraliste",
+    "Dermatologue"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "LGBT-friendly",
+    "Accessibilité PMR"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e8ef28fd907a0a0c18c60"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e90018fd907a0a0c18c62"
+  },
+  "firstname": "Thomas",
+  "lastname": "Tulipe",
+  "email": "tulipe@example1.com",
+  "phone": "0761020004",
+  "address": "17 Rue Bezout, 75014 Paris",
+  "latitude": 48.82879801577614,
+  "longitude": 2.3316141465783677,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e90018fd907a0a0c18c63"
+    }
+  },
+  "specialties": [
+    "Généraliste",
+    "Dermatologue"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "LGBT-friendly",
+    "Accessibilité PMR"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e90018fd907a0a0c18c64"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643e90f08fd907a0a0c18c6a"
+  },
+  "firstname": "Barbara",
+  "lastname": "Nicce",
+  "email": "nicce@example1.com",
+  "phone": "0761529994",
+  "address": "83 Rue des Poissonniers, 75018 Paris",
+  "latitude": 48.8921392696823,
+  "longitude": 2.351867736938102,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "643e90f08fd907a0a0c18c6b"
+    }
+  },
+  "specialties": [
+    "Généraliste",
+    "Addictologue"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Gay-friendly",
+    "Trans-Friendly",
+    "Parcours De Transition",
+    "Tiers-Payant",
+    "Suivi VIH"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643e90f08fd907a0a0c18c6c"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "643e91aa8fd907a0a0c18c6e"
+  },
+  "firstname": "Didier",
+  "lastname": "Bourdin",
+  "email": "bourdin@example1.com",
+  "phone": "0761529194",
+  "address": "3 Rue de Lille, 75007 Paris",
+  "latitude": 48.857667865345036,
+  "longitude": 2.332247864253743,
+  "sector": {
+    "value": 3,
+    "description": "Conventionné.e secteur 3",
+    "_id": {
+      "$oid": "643e91aa8fd907a0a0c18c6f"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Gay-friendly",
+    "Trans-Friendly",
+    "Suivi VIH"
+  ],
+  "confidentiality": {
+    "value": 0,
+    "description": "Public",
+    "_id": {
+      "$oid": "643e91aa8fd907a0a0c18c70"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "643fdfd256d7c17ea89fde10"
+  },
+  "firstname": "Muriel",
+  "lastname": "Hagiage",
+  "email": "murielhagiage@gmail.com",
+  "phone": "0687412352",
+  "address": "23 Rue du Louvre, 75001 Paris",
+  "latitude": 48.865003,
+  "longitude": 2.342775,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "643fdfd256d7c17ea89fde11"
+    }
+  },
+  "specialties": [
+    "Proctologue",
+    "Généraliste"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "TDS-Friendly",
+    "Suivi-Prep"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "643fdfd256d7c17ea89fde12"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441007da1c7f2727be3afd5"
+  },
+  "firstname": "Max",
+  "lastname": "Lemarc",
+  "email": "Jejdjd@yahoo.com",
+  "phone": "0142222222",
+  "address": "46 Rue Lecourbe, 75015 Paris",
+  "latitude": 48.844111,
+  "longitude": 2.307403,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "6441007da1c7f2727be3afd6"
+    }
+  },
+  "specialties": [
+    "Addictologue"
+  ],
+  "languages": [
+    "english"
+  ],
+  "tags": [
+    "Trans-Friendly",
+    "TDS-Friendly",
+    "Tiers-Payant"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "6441007da1c7f2727be3afd7"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64410276ce6c6dc232a87be1"
+  },
+  "firstname": "Bernard",
+  "lastname": "Cardon",
+  "email": "bernard.cardon@gmail.com",
+  "phone": "0687542132",
+  "address": "20 Rue Beaurepaire, 75010 Paris",
+  "latitude": 48.870532,
+  "longitude": 2.36404,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "64410276ce6c6dc232a87be2"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Sensibilité violence",
+    "Suivi-Prep",
+    "TDS-Friendly",
+    "Tiers-Payant",
+    "Gay-Friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "64410276ce6c6dc232a87be3"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "64410fd198d54eab8c690dac"
+  },
+  "firstname": "Edouard",
+  "lastname": "Doriot",
+  "email": "edouard.doriot@mail.com",
+  "phone": "0682252381",
+  "address": "36 Rue de l'Aqueduc, 75010 Paris",
+  "latitude": 48.882206,
+  "longitude": 2.363717,
+  "sector": {
+    "value": 2,
+    "description": "Conventionné.e secteur 2",
+    "_id": {
+      "$oid": "64410fd198d54eab8c690dad"
+    }
+  },
+  "specialties": [
+    "Addictologue"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Trans-Friendly",
+    "Gay-Friendly",
+    "Lesbienne-Friendly"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "64410fd198d54eab8c690dae"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6441338194567c6542c677a9"
+  },
+  "firstname": "Emmanuelle",
+  "lastname": "Puyela",
+  "email": "Manu.puyela@gmail.com",
+  "phone": "0682252381",
+  "address": "61 Avenue Daumesnil, 75012 Paris",
+  "latitude": 48.846999,
+  "longitude": 2.376361,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "6441338194567c6542c677aa"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "français"
+  ],
+  "tags": [
+    "Accessibilité PMR",
+    "Tiers-Payant",
+    "Sensibilité violence"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "6441338194567c6542c677ab"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644159f257e258aecb7c8de2"
+  },
+  "firstname": "Meredith",
+  "lastname": "Grey",
+  "email": "Grey@doctor.com",
+  "phone": "0777777777",
+  "address": "23 Rue Amelot, 75011 Paris",
+  "latitude": 48.856133,
+  "longitude": 2.369046,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "644159f257e258aecb7c8de3"
+    }
+  },
+  "specialties": [
+    "Généraliste"
+  ],
+  "languages": [
+    "english"
+  ],
+  "tags": [
+    "Tiers-Payant",
+    "Sensibilité violence",
+    "Accessibilité PMR"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "644159f257e258aecb7c8de4"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64419381e7f621769edef4e0"
+  },
+  "firstname": "James",
+  "lastname": "Carter ",
+  "email": "J.carter@gmail.com",
+  "phone": "0785522336",
+  "address": "3 Rue Lecourbe, 75015 Paris",
+  "latitude": 48.844817,
+  "longitude": 2.310425,
+  "sector": {
+    "value": 1,
+    "description": "Conventionné.e secteur 1",
+    "_id": {
+      "$oid": "64419381e7f621769edef4e1"
+    }
+  },
+  "specialties": [
+    "Proctologue",
+    "Urologue"
+  ],
+  "languages": [
+    "français",
+    "english"
+  ],
+  "tags": [
+    "Gay-Friendly",
+    "Racisé.e Friendly",
+    "Suivi-Prep"
+  ],
+  "confidentiality": {
+    "value": 3,
+    "description": "no display",
+    "_id": {
+      "$oid": "64419381e7f621769edef4e2"
+    }
+  },
+  "__v": 0
+}]
